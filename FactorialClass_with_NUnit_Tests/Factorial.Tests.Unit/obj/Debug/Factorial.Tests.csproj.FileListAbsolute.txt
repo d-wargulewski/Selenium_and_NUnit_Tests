@@ -1,0 +1,9 @@
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\Factorial.Tests.Unit.dll
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\Factorial.Tests.Unit.pdb
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\Factorial.dll
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\nunit.framework.dll
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\Factorial.pdb
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\bin\Debug\nunit.framework.xml
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\obj\Debug\Factorial.Tests.Unit.dll
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\obj\Debug\Factorial.Tests.Unit.pdb
+C:\Users\Svenn\Desktop\Class\Factorial\Factorial.Tests.Unit\obj\Debug\Factorial.Tests.csprojResolveAssemblyReference.cache

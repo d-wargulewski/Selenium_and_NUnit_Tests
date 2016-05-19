@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1016]C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll</TopNode>
+  <SelectedNode>[0-1016]C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1016]C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]IntroNunitTests" Expanded="true" />
+    <Node UniqueName="[0-1000]IntroNunitTests.MyFirstTestClass" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,9 @@
+E:\TestAutomation\TestAutomation\bin\Debug\TestAutomation.dll
+E:\TestAutomation\TestAutomation\bin\Debug\TestAutomation.pdb
+E:\TestAutomation\TestAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\TestAutomation\TestAutomation\bin\Debug\WebDriver.dll
+E:\TestAutomation\TestAutomation\bin\Debug\WebDriver.Support.dll
+E:\TestAutomation\TestAutomation\bin\Debug\WebDriver.xml
+E:\TestAutomation\TestAutomation\bin\Debug\WebDriver.Support.xml
+E:\TestAutomation\TestAutomation\obj\Debug\TestAutomation.dll
+E:\TestAutomation\TestAutomation\obj\Debug\TestAutomation.pdb

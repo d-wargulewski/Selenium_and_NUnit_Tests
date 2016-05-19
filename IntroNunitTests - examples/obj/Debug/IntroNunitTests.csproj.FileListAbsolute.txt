@@ -1,0 +1,16 @@
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.pdb
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\nunit.framework.dll
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\nunit.framework.xml
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\obj\Debug\IntroNunitTests.dll
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\obj\Debug\IntroNunitTests.pdb
+C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\obj\Debug\IntroNunitTests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\UNIT TESTY\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll
+C:\Users\Damian\Desktop\UNIT TESTY\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.pdb
+C:\Users\Damian\Desktop\UNIT TESTY\Compare-NET-Objects-Distribution\Source\IntroNunitTests\obj\Debug\IntroNunitTests.dll
+C:\Users\Damian\Desktop\UNIT TESTY\Compare-NET-Objects-Distribution\Source\IntroNunitTests\obj\Debug\IntroNunitTests.pdb
+C:\Users\Damian\Desktop\IntroNunitTests\bin\Debug\IntroNunitTests.dll
+C:\Users\Damian\Desktop\IntroNunitTests\bin\Debug\IntroNunitTests.pdb
+C:\Users\Damian\Desktop\IntroNunitTests\obj\Debug\IntroNunitTests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\IntroNunitTests\obj\Debug\IntroNunitTests.dll
+C:\Users\Damian\Desktop\IntroNunitTests\obj\Debug\IntroNunitTests.pdb

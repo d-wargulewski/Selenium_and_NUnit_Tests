@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll" total="11" errors="0" failures="1" not-run="1" inconclusive="0" ignored="1" skipped="0" invalid="0" date="2016-02-29" time="20:17:08">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8670" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="SVENN-KOMPUTER" user="Svenn" user-domain="Svenn-Komputer" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite type="Assembly" name="C:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\bin\Debug\IntroNunitTests.dll" executed="True" result="Failure" success="False" time="0.094" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="IntroNunitTests" executed="True" result="Failure" success="False" time="0.093" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MyFirstTestClass" executed="True" result="Failure" success="False" time="0.092" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="CreatingMailAdress" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                <results>
+                  <test-case name="IntroNunitTests.MyFirstTestClass.CreatingMailAdress(&quot;damian&quot;,&quot;domain&quot;,&quot;pl&quot;,&quot;damian@domain.pl&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="CreatingMailAdressAnotherImplementation" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="IntroNunitTests.MyFirstTestClass.CreatingMailAdressAnotherImplementation(&quot;damian&quot;,&quot;domain&quot;,&quot;pl&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="Data_Values" executed="True" result="Success" success="True" time="0.046" asserts="0">
+                <results>
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(1,1)" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(1,2)" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(2,1)" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(2,2)" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(3,1)" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="IntroNunitTests.MyFirstTestClass.Data_Values(3,2)" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                </results>
+              </test-suite>
+              <test-case name="IntroNunitTests.MyFirstTestClass.ExpectedExceptionTest" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="IntroNunitTests.MyFirstTestClass.NegativeTest" executed="True" result="Failure" success="False" time="0.004" asserts="0">
+                <failure>
+                  <message><![CDATA[This is a failure, oh no]]></message>
+                  <stack-trace><![CDATA[w IntroNunitTests.MyFirstTestClass.NegativeTest() w c:\Users\Svenn\Desktop\Compare-NET-Objects-Distribution\Source\IntroNunitTests\MyFirstTestClass.cs:wiersz 28
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="IntroNunitTests.MyFirstTestClass.NotImplementedException" executed="False" result="Ignored">
+                <reason>
+                  <message><![CDATA[Exception is not implemented yet]]></message>
+                </reason>
+              </test-case>
+              <test-case name="IntroNunitTests.MyFirstTestClass.PositiveTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
